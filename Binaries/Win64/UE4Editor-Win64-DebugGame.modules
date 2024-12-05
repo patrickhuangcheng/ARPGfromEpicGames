@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"ActionRPG": "UE4Editor-ActionRPG-Win64-DebugGame.dll",
+		"ActionRPGLoadingScreen": "UE4Editor-ActionRPGLoadingScreen-Win64-DebugGame.dll"
+	}
+}
